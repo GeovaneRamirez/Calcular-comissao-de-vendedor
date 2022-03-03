@@ -13,7 +13,7 @@ int main()
 
     scanf ("%lf", &valor_da_venda);
 
-    printf ("Digite o valor da comissao: \n");
+    printf ("Digite o percentual da comissao: \n");
 
     scanf ("%f", &comissao);
 
