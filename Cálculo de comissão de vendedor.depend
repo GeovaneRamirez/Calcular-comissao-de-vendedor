@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646308527 source:c:\users\fatecano\documents\primeiro programa\cálculo de comissão de vendedor\main.c
+	<stdio.h>
+	<stdlib.h>
+
